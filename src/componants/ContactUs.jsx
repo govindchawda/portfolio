@@ -325,7 +325,7 @@ export default function ContactUs() {
           </div>
         </div>
       </div>
-      {/* check  123*/}
+      {/* check  12*/}
     </>
   );
 }
