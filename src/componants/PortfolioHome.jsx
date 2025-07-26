@@ -85,7 +85,7 @@ const PortfolioHome = () => {
                     <img src="https://i.ibb.co/Mx0009Bv/Screenshot-2025-07-22-115018.png" />
                   </a>
                   <div className="content">
-                    <h5>Technology :- HTML ,CSS</h5>
+                    <h5>Technology :- HTML, CSS, BOOTSTRAP</h5>
                     <p>
                       <strong>About :- </strong>This project is a charity website UI designed with Bootstrap 5, featuring a clean, modern, and mobile-friendly layout. The design focuses on highlighting donation campaigns, events, and volunteer programs with smooth navigation . <a href="https://charity46.netlify.app/">View</a>
                     </p>
@@ -124,7 +124,7 @@ const PortfolioHome = () => {
                     <img src="https://i.ibb.co/whXQDvmy/Screenshot-2025-07-22-115524.png" />
                   </a>
                   <div className="content">
-                    <h5>Technology :- HTML ,CSS</h5>
+                    <h5>Technology :- HTML ,CSS, BOOTSTRAP, JAVASCRIPT</h5>
                     <p>
                       <strong>About :- </strong>This project is a fully responsive e-commerce website developed using HTML, CSS, Bootstrap, and JavaScript. It features category-wise product listings, add-to-cart functionality, and single product detail views for a smooth shopping experience . <a href="https://ecomarce46netlifyapp.netlify.app/">View</a>
                     </p>
@@ -137,7 +137,7 @@ const PortfolioHome = () => {
                     <img src="https://i.ibb.co/yckzxTJd/Screenshot-2025-07-22-115951.png" />
                   </a>
                   <div className="content">
-                    <h5>Technology :- HTML ,CSS</h5>
+                    <h5>Technology :- MERN</h5>
                     <p>
                       <strong>About :- </strong> A feature-rich restaurant web app with separate Admin and User dashboards. Users can browse the menu, add items to their cart, review orders, and check out, while Admins manage food items and users (add/edit/delete) with built-in search controls. The interface is fully responsive for mobile, tablet, and desktop . <a href="https://fodis-46.netlify.app/">View</a>
                     </p>
@@ -146,15 +146,15 @@ const PortfolioHome = () => {
               </div>
               <div className="col-sm-12 col-md-6 col-lg-4 mt-4 P-3">
                 <div className="borderd">
-                  <a className="portfolis-imges" href="https://fodis-46.netlify.app/">
+                  <a className="portfolis-imges" href="#">
                     <img src="https://i.ibb.co/jPgQS1vM/Screenshot-2025-07-22-120244.png" />
                   </a>
                   <div className="content">
                   </div>
                   <div className="content">
-                    <h5>Technology :- HTML ,CSS</h5>
+                    <h5>Technology :- MERN</h5>
                     <p>
-                      <strong>About :- </strong>A comprehensive School ERP system with role-based access for Admin, Teachers, and Students. It features class management (add, edit, delete, search), attendance tracking, and student data export in PDF format. JWT authentication is implemented for secure route protection, and Admins can fully manage users . <a href="https://fodis-46.netlify.app/">View</a>
+                      <strong>About :- </strong>A comprehensive School ERP system with role-based access for Admin, Teachers, and Students. It features class management (add, edit, delete, search), attendance tracking, and student data export in PDF format. JWT authentication is implemented for secure route protection, and Admins can fully manage users . <a href="#">View</a>
                     </p>
                   </div>
                 </div>
@@ -178,7 +178,7 @@ const PortfolioHome = () => {
                     <img src="https://i.ibb.co/XrghVMtW/Screenshot-2025-07-22-120959.png" />
                   </a>
                   <div className="content">
-                    <h5>Technology :- HTML ,CSS</h5>
+                    <h5>Technology :- HTML ,CSS, JAVSCRIPT</h5>
                     <p>
                       <strong>About :- </strong> This is a live project developed for Future Multimedia Institute, where I worked for 5 months. The website features a fully responsive and modern design, optimized for smooth navigation and user experience across all devices . <a href="https://www.futuremultimedia.in/">View</a>
                     </p>
