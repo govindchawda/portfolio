@@ -4,12 +4,13 @@ export default function Navbar() {
   return (
     <>
       <div className='navbar-section'>
+        {/* check */}
         <div className="">
           <div className="container">
             <div>
               <nav>
                 <div className='logo'>
-                  <h1><b><span>GO</span>VIND12334</b></h1>
+                  <h1><b><span>GO</span>VIND</b></h1>
                 </div>
              <ul>
                   <li><a href="" className='active'>Home</a></li>
