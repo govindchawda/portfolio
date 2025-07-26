@@ -9,7 +9,7 @@ export default function Navbar() {
             <div>
               <nav>
                 <div className='logo'>
-                  <h1><b><span>GO</span>VIND</b></h1>
+                  <h1><b><span>GO</span>VIND12334</b></h1>
                 </div>
              <ul>
                   <li><a href="" className='active'>Home</a></li>
