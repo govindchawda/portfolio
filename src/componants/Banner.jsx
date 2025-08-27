@@ -181,7 +181,7 @@ return(
             <p>I am a passionate Web Developer with 2+ years of experience, skilled in creating and designing responsive and user-friendly websites. I have worked on multiple technologies and tools, gaining strong expertise in real-time project development. Currently, I am working on building an ERP system, which has enhanced my experience in handling complex and scalable applications</p>
             {/* <p>I am a web developer with 2 years of experience. I have <br /> created and designed many websites and much more...</p> */}
             <a href="tel:7803963991"><span>Hire me</span></a>
-            <a  href="/Govind chawda 46.pdf"
+            <a  href="/Govind_chawda_resume_46.pdf"
         download="Govind_chawda_resume.pdf" style={{marginLeft:'30px'}}><span>Resume</span></a>
            
           </div>
